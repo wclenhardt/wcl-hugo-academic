@@ -26,7 +26,7 @@ experience:
     company: RENCI
     company_url: ''
     company_logo: 
-    location: 
+    location: Chapel Hill, NC
     date_start: '2012-12-01'
     date_end: ''
     description: |2-
@@ -39,8 +39,8 @@ experience:
   - title: Science Team Lead
     company: Oak Ridge National Laboratory
     company_url: ''
-    company_logo: org-x
-    location: California
+    company_logo: 
+    location: Oak Ridge, TN
     date_start: '2007-12-01'
     date_end: '2012-12-01'
     description: Taught electronic engineering and researched semiconductor physics.
