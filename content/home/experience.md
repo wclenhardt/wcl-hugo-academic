@@ -32,7 +32,7 @@ experience:
     description:        
   - title: Science Team Lead
     company: Oak Ridge National Laboratory
-    company_url: ''
+    company_url: 'https://www.ornl.gov/'
     company_logo: 
     location: Oak Ridge, TN
     date_start: '2007-12-01'
@@ -40,7 +40,7 @@ experience:
     description: 
   - title: Associate Director for Information Services
     company: CIESIN
-    company_url: ''
+    company_url: 'http://ciesin.columbia.edu/'
     company_logo: 
     location: New York, NY
     date_start: '1998-07-01'
