@@ -25,9 +25,9 @@ experience:
   - title: Research Scientist
     company: RENCI
     company_url: ''
-    company_logo: 
-    location: 
-    date_start: '2012-12-00'
+    company_logo: org-gc
+    location: California
+    date_start: '2021-12-01'
     date_end: ''
     description: |2-
         Responsibilities include:
@@ -44,7 +44,6 @@ experience:
     date_start: '2016-01-01'
     date_end: '2020-12-31'
     description: Taught electronic engineering and researched semiconductor physics.
-
 design:
   columns: '2'
 ---
