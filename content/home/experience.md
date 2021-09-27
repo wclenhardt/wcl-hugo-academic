@@ -27,7 +27,7 @@ experience:
     company_url: ''
     company_logo: org-gc
     location: California
-    date_start: '2021-12-01'
+    date_start: '2012-12-01'
     date_end: ''
     description: |2-
         Responsibilities include:
@@ -36,13 +36,13 @@ experience:
         * Modelling
         * Deploying
         
-  - title: Professor of Semiconductor Physics
-    company: University X
+  - title: Science Team Lead
+    company: Oak Ridge National Laboratory
     company_url: ''
     company_logo: org-x
     location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
+    date_start: '2007-12-01'
+    date_end: '2012-12-01'
     description: Taught electronic engineering and researched semiconductor physics.
 design:
   columns: '2'
