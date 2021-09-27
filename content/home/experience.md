@@ -29,8 +29,7 @@ experience:
     location: Chapel Hill, NC
     date_start: '2012-12-01'
     date_end: ''
-    description: 
-        
+    description:        
   - title: Science Team Lead
     company: Oak Ridge National Laboratory
     company_url: ''
@@ -44,7 +43,7 @@ experience:
     company_url: ''
     company_logo: 
     location: New York, NY
-    date_start: '1998-097-01'
+    date_start: '1998-07-01'
     date_end: '2007-11-01'
     description: 
     
