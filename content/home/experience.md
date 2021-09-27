@@ -38,14 +38,6 @@ experience:
     date_start: '2007-12-01'
     date_end: '2012-12-01'
     description: 
- - title: Associate Director for Information Services
-    company: CIESIN
-    company_url: ''
-    company_logo: 
-    location: New York, NY
-    date_start: '1998-07-01'
-    date_end: '2007-11-01'
-    description: 
     
 design:
   columns: '2'
