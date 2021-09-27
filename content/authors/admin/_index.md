@@ -26,14 +26,14 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - course: PhD student
+    institution: School of Information and Library Science
+    year: Current
+  - course: MA Political Science
+    institution: The University of Michigan
+    year: 
+  - course: MSc International Relations
+    institution: The London School of Economics and Political Science
     year: 2008
 
 # Social/Academic Networking
