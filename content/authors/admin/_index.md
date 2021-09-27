@@ -44,15 +44,15 @@ social:
 - icon: orcid
   icon_pack: ai
   link: https://orcid.org/0000-0001-9677-784X
+- icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
+  icon_pack: ai
+  link: https://scholar.google.co.uk/citations?user=moojvvsAAAAJ&hl
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/wclenhardt
   label: Follow me on Twitter
   display:
     header: true
-- icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=moojvvsAAAAJ&hl
 - icon: github
   icon_pack: fab
   link: https://github.com/wclenhardt
@@ -74,8 +74,8 @@ email: ""
 highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Chris Lenhardt is a researcher in the Earth Data Science Group at RENCI where he leads projects related to human dimensions of gloval environmental change.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Prior to RENCI he worked at ORNL, before that he worked at CIESIN.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
