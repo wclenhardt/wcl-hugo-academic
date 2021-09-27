@@ -25,8 +25,8 @@ experience:
   - title: Research Scientist
     company: RENCI
     company_url: ''
-    company_logo: org-gc
-    location: California
+    company_logo: 
+    location: 
     date_start: '2012-12-01'
     date_end: ''
     description: |2-
