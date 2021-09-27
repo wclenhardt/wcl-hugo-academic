@@ -34,7 +34,10 @@ education:
     year: 
   - course: MSc International Relations
     institution: The London School of Economics and Political Science
-    year: 2008
+    year: 
+  - course: BA Political Science
+    institution: Middlebury College
+    year:
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
