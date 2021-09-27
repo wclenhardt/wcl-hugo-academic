@@ -27,7 +27,7 @@ experience:
     company_url: ''
     company_logo: 
     location: 
-    date_start: ''
+    date_start: '2012'
     date_end: ''
     description: 
         
@@ -36,8 +36,8 @@ experience:
     company_url: ''
     company_logo: 
     location: 
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
+    date_start: '2007'
+    date_end: '2012'
     description: 
 
 design:
