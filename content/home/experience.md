@@ -38,8 +38,8 @@ experience:
     date_start: '2007-12-01'
     date_end: '2012-12-01'
     description: 
-  - title: Science Team Lead
-    company: Oak Ridge National Laboratory
+  - title: Associate Director for Information Services
+    company: CIESIN
     company_url: ''
     company_logo: 
     location: Oak Ridge, TN
