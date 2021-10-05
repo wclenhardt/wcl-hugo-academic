@@ -34,17 +34,17 @@ item:
 - certificate_url: https://www.citiprogram.org/verify/?w6b58aaf1-bea6-4e2a-8192-4a6e09c00e2b-35795818
   date_end: ""
   date_start: "2021-05-01"
-  description: Human Subjects Research Core Refreshers
+  description: 
   organization: CITI Program
-  organization_url: 
-  title: Human Subjects Research Core Refreshers
+  organization_url: https://about.citiprogram.org/
+  title: Human Subjects Research Core Refresher
   url: 
 - certificate_url: https://www.citiprogram.org/verify/?w8dbff049-c54d-4dfe-a241-9d92bfb48456-42384081
   date_end: ""
   date_start: "2021-05-01"
   description: ""
   organization: CITI Program
-  organization_url: 
+  organization_url: https://about.citiprogram.org/
   title: Group 2 Social and Behavioral Research
   url: ""
 
