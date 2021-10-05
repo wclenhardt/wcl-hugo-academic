@@ -23,29 +23,29 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- certificate_url: https://www.coursera.org
+- certificate_url: https://www.coursera.org/account/accomplishments/specialization/certificate/PDLE4U8AANXL
   date_end: ""
-  date_start: "2021-01-25"
+  date_start: "2017-08-01"
   description: ""
   organization: Coursera
   organization_url: https://www.coursera.org
-  title: Neural Networks and Deep Learning
+  title: Python for Everybody Specialization
   url: ""
-- certificate_url: https://www.edx.org
+- certificate_url: https://www.citiprogram.org/verify/?w6b58aaf1-bea6-4e2a-8192-4a6e09c00e2b-35795818
   date_end: ""
-  date_start: "2021-01-01"
-  description: Formulated informed blockchain models, hypotheses, and use cases.
-  organization: edX
-  organization_url: https://www.edx.org
-  title: Blockchain Fundamentals
-  url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-- certificate_url: https://www.datacamp.com
-  date_end: "2020-12-21"
-  date_start: "2020-07-01"
+  date_start: "2021-05-01"
+  description: Human Subjects Research Core Refreshers
+  organization: CITI Program
+  organization_url: 
+  title: Human Subjects Research Core Refreshers
+  url: 
+- certificate_url: https://www.citiprogram.org/verify/?w8dbff049-c54d-4dfe-a241-9d92bfb48456-42384081
+  date_end: ""
+  date_start: "2021-05-01"
   description: ""
-  organization: DataCamp
-  organization_url: https://www.datacamp.com
-  title: 'Object-Oriented Programming in R'
+  organization: CITI Program
+  organization_url: 
+  title: Group 2 Social and Behavioral Research
   url: ""
 
 design:
